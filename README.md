@@ -118,7 +118,7 @@ GitHubのIssuesページにて報告をお願いします。
 ## 📞 お問い合わせ
 
 プロジェクトに関するご質問は、GitHubのIssuesにお願いします：
-- GitHub: [@takatetsu](https://github.com/takatetsu)
+- GitHub: [@tate](https://github.com/tate)
 
 ---
 
